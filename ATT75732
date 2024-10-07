@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Navigation Bar Project</title>
+<style>
+ul{
+padding:0;
+margin:0;
+list-style-type:none;
+background-color:;
+overflow:hidden;
+}
+li{
+display:inline;
+}
+a{
+text-decoration:none;
+padding:8px;
+}
+</style>
+</head>
+<body>
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#contact">Contact</a></li>
+<li><a href="#about us">About Us</a></li>
+</ul>
+</body>
+<html>
